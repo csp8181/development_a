@@ -1,1 +1,3 @@
 Just testing with local, Render and git. Response times on free subscription.
+Another way opf doing it is  to change the file locallly, and the merge and commit it to external. However i'm still 
+unsure wheter this will be automatically logged/registered by Render. I guess we will see.
